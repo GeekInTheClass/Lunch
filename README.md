@@ -6,6 +6,8 @@
 부리또추천이용
 치킨!
 
-![Alt text](/ttuck.jpg)
+> 음식 사진
+
+![Alt text](/ttuck.jpg "떡볶이")
 <img width="100" height="100"></img>
 
