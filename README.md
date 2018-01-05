@@ -4,4 +4,12 @@
 보쌈이용
 메밀소바요오오
 부리또추천이용
+<<<<<<< HEAD
 요
+=======
+치킨!
+
+![Alt 떡볶이](/Desktop/ttuck.jpeg)
+<img width="100" height="100"></img>
+
+>>>>>>> 5f04fda91566eab27042e74a9a6a238c0b967093
